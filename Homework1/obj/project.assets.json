@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/Homework1/Homework1.csproj",
+      "projectUniqueName": "/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework1/Homework1.csproj",
       "projectName": "Homework1",
-      "projectPath": "/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/Homework1/Homework1.csproj",
+      "projectPath": "/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework1/Homework1.csproj",
       "packagesPath": "/Users/ok/.nuget/packages/",
-      "outputPath": "/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/Homework1/obj/",
+      "outputPath": "/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ok/.nuget/NuGet/NuGet.Config"
