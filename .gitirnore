@@ -2,3 +2,6 @@
 /obj/
 .DS_Store
 **/logs
+.csproj
+/.vscode/
+/bin/Debug/net7.0/
