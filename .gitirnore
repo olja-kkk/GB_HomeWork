@@ -1,7 +1,7 @@
-/bin/
-/obj/
+/bin
+/obj
 .DS_Store
 **/logs
 .csproj
-/.vscode/
-/bin/Debug/net7.0/
+/.vscode
+/bin/Debug/net7.0
