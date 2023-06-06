@@ -1,0 +1,15 @@
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/Homework3.csproj.AssemblyReference.cache
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/Homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/Homework3.AssemblyInfoInputs.cache
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/Homework3.AssemblyInfo.cs
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/Homework3.csproj.CoreCompileInputs.cache
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/bin/Debug/net7.0/Homework3
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/bin/Debug/net7.0/Homework3.deps.json
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/bin/Debug/net7.0/Homework3.runtimeconfig.json
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/bin/Debug/net7.0/Homework3.dll
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/bin/Debug/net7.0/Homework3.pdb
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/Homework3.dll
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/refint/Homework3.dll
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/Homework3.pdb
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/Homework3.genruntimeconfig.cache
+/Users/ok/Desktop/GeekB/GIT FOR GB/2023_05_17_С#/GB_HomeWork/Homework3/obj/Debug/net7.0/ref/Homework3.dll
