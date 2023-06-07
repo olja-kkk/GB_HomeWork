@@ -7,5 +7,5 @@ logs/
 bin/
 obj/
 *.json
-
+*.gitignore
 
