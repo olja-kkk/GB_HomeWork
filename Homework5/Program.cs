@@ -58,17 +58,37 @@
 // Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 // [3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
 
-// double[] array = new double[8];
+// double[] array = new double[5];
 // for (int i = 0; i < array.Length; i++)
 // {
 //     array[i] = Math.Round((new Random().NextDouble() * new Random().Next(1,101)),2);
 // } 
 // Console.WriteLine($"Array of real numbers: [ {String.Join("; ", array)} ]");
 
-// double getValue (double minValue, double maxValue)
+// double getValue (double[] arr)
 // {
-
+// double maxValue = arr[0];
+// double minValue = arr[0];
+// for (int i = 1; i < arr.Length; i++)
+// {
+//     if (arr[i] > maxValue)
+//     {
+//      maxValue = arr[i];   
+//     }
+//     else if (arr[i] < minValue)
+//     {
+//         minValue = arr[i]; 
+//     }
 // }
-// int maxValue = ar.Max<int>();
+// Console.WriteLine($"{maxValue}, {minValue}");
+// return maxValue - minValue;
+// }
+
+// double result = getValue(array);
+// Console.WriteLine($"Difference between maximum and minimum values: {result}");
+
+
+
+
 
 
